@@ -1,0 +1,89 @@
+[
+{
+  "key" : "a_few_more_details_will_help_get_you_to_the_right_person",
+  "value" : "A few more details will help get you to the right person:",
+  "owner" : "capture_convert",
+  "notes" : "A message from our bot, Operator, to introduce the card asking leads for qualification data.",
+  "platforms" : ["rails"]
+},
+
+{
+  "key" : "access_device_settings",
+  "value" : "Go to your device settings to allow access to your photos",
+  "owner" : "messenger",
+  "notes" : "",
+  "platforms" : ["ios-messenger"]
+},
+
+{
+  "key" : "access_photos",
+  "value" : "Access your photos",
+  "owner" : "messenger",
+  "notes" : "",
+  "platforms" : ["ios-messenger", "android-messenger"]
+},
+
+{
+  "key" : "active_15m_ago",
+  "value" : "Active in the last {minutes}m",
+  "owner" : "messenger",
+  "notes" : "",
+  "platforms" : ["ios-messenger", "android-messenger", "web-messenger"]
+},
+
+{
+  "key" : "active_day_ago",
+  "value" : "Active {days}d ago",
+  "owner" : "messenger",
+  "notes" : "",
+  "platforms" : ["ios-messenger", "android-messenger", "web-messenger"]
+},
+
+{
+  "key" : "active_hour_ago",
+  "value" : "Active {hours}h ago",
+  "owner" : "messenger",
+  "notes" : "",
+  "platforms" : ["ios-messenger", "android-messenger", "web-messenger"]
+},
+
+{
+  "key" : "error_loading_conversation",
+  "value" : "Couldn't load the conversation",
+  "owner" : "messenger",
+  "notes" : "",
+  "platforms" : ["ios-messenger", "android-messenger"]
+},
+
+{
+  "key" : "error_no_conversations_message_no_app_name",
+  "value" : "No conversations yet",
+  "owner" : "messenger",
+  "notes" : "",
+  "platforms" : ["ios-messenger"]
+},
+
+{
+  "key" : "event_part_article_feedback_requested",
+  "value" : "Responder asked [[participant]] if they got everything they needed",
+  "owner" : "inbox",
+  "notes" : "",
+  "platforms" : ["rails"]
+},
+
+{
+  "key" : "event_part_assign_and_reopen",
+  "value" : "[[admin]] assigned this conversation to [[assignee]] and reopened it",
+  "owner" : "inbox",
+  "notes" : "",
+  "platforms" : ["rails"]
+},
+
+{
+  "key" : "event_part_assign_and_unsnooze",
+  "value" : "[[admin]] assigned this conversation to [[assignee]] and reopened it",
+  "owner" : "inbox",
+  "notes" : "",
+  "platforms" : ["rails"]
+}
+]
