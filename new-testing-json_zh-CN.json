@@ -1,0 +1,88 @@
+[
+{
+  "key" : "a_few_more_details_will_help_get_you_to_the_right_person",
+  "value" : "其他一些细节将帮助您找到合适的人：",
+  "owner" : "capture_convert",
+  "notes" : "A message from our bot, Operator, to introduce the card asking leads for qualification data.",
+  "platforms" : ["rails"]
+},
+
+{
+  "key" : "access_device_settings",
+  "value" : "这是十月的新字符串。",
+  "owner" : "messenger",
+  "notes" : "",
+  "platforms" : ["ios-messenger"]
+},
+
+{
+  "key" : "access_photos",
+  "value" : "存取您的照片",
+  "owner" : "messenger",
+  "notes" : "",
+  "platforms" : ["ios-messenger", "android-messenger"]
+},
+
+{
+  "key" : "active_15m_ago",
+  "value" : "在过去{minutes}天内有效",
+  "owner" : "messenger",
+  "notes" : "",
+  "platforms" : ["ios-messenger", "android-messenger", "web-messenger"]
+},
+
+{
+  "key" : "active_day_ago",
+  "value" : "有效{days}天前",
+  "owner" : "messenger",
+  "notes" : "",
+  "platforms" : ["ios-messenger", "android-messenger", "web-messenger"]
+},
+
+{
+  "key" : "active_hour_ago",
+  "value" : "活跃{hours}小时前",
+  "owner" : "messenger",
+  "notes" : "",
+  "platforms" : ["ios-messenger", "android-messenger", "web-messenger"]
+},
+
+{
+  "key" : "error_loading_conversation",
+  "value" : "无法加载对话",
+  "owner" : "messenger",
+  "notes" : "",
+  "platforms" : ["ios-messenger", "android-messenger"]
+},
+
+{
+  "key" : "error_no_conversations_message_no_app_name",
+  "value" : "尚无对话",
+  "owner" : "messenger",
+  "notes" : "",
+  "platforms" : ["ios-messenger"]
+},
+
+{
+  "key" : "event_part_article_feedback_requested",
+  "value" : "响应者询问[[participant]]是否得到了所需的一切",
+  "owner" : "inbox",
+  "notes" : "",
+  "platforms" : ["rails"]
+},
+
+{
+  "key" : "event_part_assign_and_reopen",
+  "value" : "[[admin]]将此对话分配给[[assignee]]并重新打开",
+  "owner" : "inbox",
+  "notes" : "",
+  "platforms" : ["rails"]
+},
+
+{
+  "key" : "event_part_assign_and_unsnooze",
+  "value" : "[[admin]]将此对话分配给[[assignee]]并重新打开",
+  "owner" : "inbox",
+  "notes" : "",
+  "platforms" : ["rails"]
+}]
